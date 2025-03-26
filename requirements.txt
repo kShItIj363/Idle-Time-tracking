@@ -1,0 +1,8 @@
+numpy
+opencv-python
+torch
+torchvision
+yolov8
+pysimplegui  # For GUI elements (if used in box.py)
+rtmp  # If RTMP streaming is used
+json  # Built-in, but mentioned for clarity
