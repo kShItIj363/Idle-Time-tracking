@@ -1,4 +1,3 @@
-**README File (README.md)**
 ```
 # Idle Time Tracking
 
@@ -44,7 +43,4 @@ This will process the stream and monitor idle time within the defined ROIs.
 - PySimpleGUI (if GUI elements are used in `box.py`)
 - RTMP support for streaming
 
-## Contact
-For support or improvements, feel free to contribute or reach out.
 ```
-
